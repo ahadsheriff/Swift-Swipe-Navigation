@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         
         let vc2 = SecondViewController(nibName: "SecondViewController", bundle: nil)
         var frame2 = vc2.view.frame
-        // Width will be one screen width away from the original view
+        // Will be displayed one screen width away from the original view
         frame2.origin.x = self.view.frame.size.width
         vc2.view.frame = frame2
         self.addChildViewController(vc2)

@@ -506,6 +506,7 @@
 				7BC1B61F1D1D535800BB58EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7BC1B6201D1D535800BB58EB /* Build configuration list for PBXNativeTarget "SwipeNavigationTests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +515,7 @@
 				7BC1B6221D1D535800BB58EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7BC1B6231D1D535800BB58EB /* Build configuration list for PBXNativeTarget "SwipeNavigationUITests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +524,7 @@
 				7BC1B6251D1D535800BB58EB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
